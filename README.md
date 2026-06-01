@@ -1,4 +1,4 @@
-# KUCC Git & GitHub Reference Library & Presentation 🚀
+# KUCC Git & GitHub Reference Library & Presentation 
 
 Welcome to the **KUCC Git & GitHub Masterclass and Hands-On Workshop** repository! Organized by the **Kathmandu University Computer Club (KUCC)**, this project is designed specifically for first-year students to learn the fundamentals of modern version control, collaborative development, and team workflows.
 
